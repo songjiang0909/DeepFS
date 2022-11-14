@@ -30,6 +30,11 @@ Contact
 Song Jiang <songjiang@cs.ucla.edu>
 
 
+Repo reference
+----------------------
+[Informer](https://github.com/zhouhaoyi/Informer2020)
+
+
 Bibtex
 ----------------------
 
